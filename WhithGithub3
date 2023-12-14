@@ -1,4 +1,4 @@
-IP="10.211.55.11,172.31.10.164"
+IP="172.31.10.164"
 cmd="ls -al"
 token="bot5975250323:AAHavbihpd-eNaCLZKDdF4sCYuhgMzbfHE4"
 chatid="5710132140"
