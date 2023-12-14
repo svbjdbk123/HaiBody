@@ -1,4 +1,4 @@
 IP="127.0.0.1,127.0.0.2,127.0.0.3,127.0.0.4,127.0.0.5"
-cmd="ls -al"
+cmd="whoami"
 token="bot5975250323:AAHavbihpd-eNaCLZKDdF4sCYuhgMzbfHE4"
 chatid="5710132140"
