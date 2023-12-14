@@ -1,4 +1,4 @@
-IP="我司IP"
+IP="127.0.0.1"
 cmd="whoami"
 token="token"
 chatid="chatid"
