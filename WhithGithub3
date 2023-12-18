@@ -1,4 +1,4 @@
-IP="192.168.100.68"
+IP="127.0.0.1"
 cmd="id"
 token="bot5975250323:AAHavbihpd-eNaCLZKDdF4sCYuhgMzbfHE4"
 chatid="-4043836479"
